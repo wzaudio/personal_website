@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{index.html}
+
+= {{<font color="blue"><b>}}Wen Zhang{{</b></font>}} -- Personal Webpage
+
+#{{<font size="+1", color="blue"><b>}}
+#Center of Intelligent Acoustics and Immersive Communications\n
+#School of Marine Science and Technology\n
+#Northwestern Polytechnical University\n
+#\n
+#Research School of Engineering\n
+#Collge of Engineering and Computer Science\n
+#The Australian National University
+#{{</b></font>}}
+
+\n
+~~~
+{}{img_left}{figs/image.jpg}{200}{200}{}
+
+Wen Zhang received the B.E. in telecommunication eneineering from Xi'dian University, Xi'an, China, in 2003, the M.E. (with honours) 
+and Ph.D. degrees in electrical engineering from The Australian National University, Canberra, Australia, in 2005 and 2010, 
+respectively. She is currently a Fellow at the Center of Intelligent Acoustics and Immersive Communications (CIAIC), School of Marine 
+Science and Technology, Northwestern Polytechnical University, Xi'an, China and an Adjunt Fellow at the Research School of 
+Engineering, The Australian National University, Canberra, Australia. From 2010 to 2012, she worked as a Postdoctoral Fellow 
+at CSIRO, Sydney, Austraia.
+
+Dr. Wen Zhang has been a Member of IEEE and JASA since 2010 and has co-authored more than 40 reference journal articles or 
+conference papers.  She is a Chief Investigator in a number of National Natural Science Funding of China (NSFC), Australian 
+Research Council (ARC) Discovery and Linkage Projects. In 2015, she received the Australian Research Council (ARC) Discovery Early Career
+Researcher Award (DECRA). 
+
+Her research interests are mainly in the area of binaural hearing, spatial audio, and acoustic singal processing.
+~~~
+
+~~~
+{News}
+- {{<font face = "Comic sans MS">}}Sep. 2016{{</font>}}: Paper accepted on "Analysis and control of multi-zone sound field reproduction using modal-domain approach" for publication in /Journal of the Acoustical Society of America/.
+- {{<font face = "Comic sans MS">}}Aug. 2016{{</font>}}: Paper accepted on "Recent Advances in Active Noise Control Inside Automobile Cabins" for publication in /IEEE Signal Processing Magazine/.
+- {{<font face = "Comic sans MS">}}Aug. 2016{{</font>}}: Paper accepted on "Direct-to-Reverberant Energy Ratio Estimation using a First Order Microphone" for publication in /IEEE\/ACM Trans. on Audio, Speech and Language Processing/.
+- {{<font face = "Comic sans MS">}}Aug. 2016{{</font>}}: NSFC grant (61671380): Theory and design of multi-zone sound field 
+reproduction (多区域声场重现的系统理论与主要技术研究), Chief Investigator, 2017-2020.
+- {{<font face = "Comic sans MS">}}June-July 2016{{</font>}}: Visiting Fellow, Multimedia Communications and Signal Processing, 
+Friedrich-Alexander University of Erlangen-Nuremberg (FAU), Erlangen, Germany,
+- {{<font face = "Comic sans MS">}}May 2016{{</font>}}: ARC Linkage Project Grant (LP160100379): Spatial sound control for testing multi-channel audio devices, Chief Investigator with Prof. Thushara D. Abhayapala and A/Prof. Glenn Dickins, 2017-2019.
+~~~
+
+
+
+
+
